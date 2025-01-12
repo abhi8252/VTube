@@ -131,7 +131,7 @@ const Head = () => {
         <button onClick={handleThemeChange}>
           {theme === "light" ? <MdOutlineLightMode size={28} /> : <MdOutlineDarkMode size={28}  />}
         </button>
-        <a href="https://linkedin.com/in/ayushr97j">
+        <a href="https://linkedin.com/in/abhi8252">
           <MdOutlineEmojiPeople size={28}/>
         </a>
       </div>
